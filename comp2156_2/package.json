@@ -1,0 +1,21 @@
+{
+    "name": "comp2156",
+    "version": "1.0.0",
+    "description": "Hello World",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Warning: No tests created yet.\"" 
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/kr98kall/comp2156_1.git"
+    },
+    "keywords": [],
+    "author": "kr98kall",
+    "license": "ISC",
+    "bugs":{
+        "url": "https://github.com/kr98kall/comp2156_1/issues"
+
+    },
+    "homepage": "https://github.com/kr98kall/comp2156_1#readme"
+}
